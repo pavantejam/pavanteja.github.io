@@ -1,35 +1,35 @@
 var skillsCollection = [
   {
-    'name': 'Javascript',
-    'percentage': '75'
+    'name': 'Data Science',
+    'percentage': '85'
   },
   {
-    'name': 'Angular JS',
+    'name': 'Analytics (Predictive, Descriptive) ',
     'percentage': '90'
   },
   {
-    'name': 'JQuery',
-    'percentage': '60'
+    'name': 'Machine Learning (Deep-Learning)',
+    'percentage': '70'
   },
   {
-    'name': 'HTML5, CSS3',
-    'percentage': '90'
-  },
-  {
-    'name': 'LESS, SASS',
+    'name': 'Tensorflow, Tflearn,  ',
     'percentage': '80'
   },
   {
-    'name': 'Java, RESTful APIs',
-    'percentage': '60'
+    'name': 'SQL(MySQL,DB2,Postgres)',
+    'percentage': '80'
   },
   {
-    'name': 'Maven, Bower',
-    'percentage': '75'
+    'name': 'Python, R, SPSS',
+    'percentage': '70'
   },
   {
-    'name': 'Grunt, Gulp',
-    'percentage': '75'
+    'name': 'Algorithms and Datastructures',
+    'percentage': '80'
+  },
+  {
+    'name': 'SPSS Modeler, SAS Enterprise Miner, Tableau',
+    'percentage': '90'
   },
   {
     'name': 'Protractor, Jasmine',

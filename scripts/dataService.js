@@ -9,7 +9,7 @@ var skillsCollection = [
   },
   {
     'name': 'Machine Learning (Deep-Learning)',
-    'percentage': '60'
+    'percentage': '70'
   },
   {
     'name': 'Tensorflow, Tflearn,  ',
@@ -20,8 +20,8 @@ var skillsCollection = [
     'percentage': '80'
   },
   {
-    'name': 'Python, R, SPSS',
-    'percentage': '70'
+    'name': 'R, Python (Numpy, Scikit, Pandas)  ',
+    'percentage': '80'
   },
   {
     'name': 'Algorithms and Datastructures',
@@ -32,17 +32,22 @@ var skillsCollection = [
     'percentage': '90'
   },
   {
-    'name': 'AWS, Cloud Computing',
+    'name': 'Protractor, Jasmine',
     'percentage': '65'
   },
   {
-    'name': 'Distributed Computing, ',
+    'name': 'Lodash, Underscore',
     'percentage': '95'
   },
   {
     'name': 'SVN, GIT',
     'percentage': '80'
+  },
+  {
+    'name': 'SPSS, SAS, Excel',
+    'percentage': '70'
   }
+  
 ];
 
 function data() {

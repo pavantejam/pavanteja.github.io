@@ -24,11 +24,11 @@ var skillsCollection = [
     'percentage': '80'
   },
   {
-    'name': 'Algorithms and Datastructures',
+    'name': 'Algorithms, Datastructures',
     'percentage': '80'
   },
   {
-    'name': 'SPSS Modeler, SAS Enterprise Miner, Tableau',
+    'name': 'SPSS Modeler, SAS Enterprise Miner',
     'percentage': '90'
   },
   {
@@ -40,21 +40,14 @@ var skillsCollection = [
     'percentage': '70'
   },
   {
-    'name': 'SPSS, SAS, Excel',
+    'name': 'Data Visualization,Tableau',
     'percentage': '70'
   },
   {
     'name': 'SVN, GIT',
     'percentage': '80'
   },
-  {
-    'name': 'SPSS, SAS, Excel',
-    'percentage': '70'
-  },
-  {
-    'name': 'SPSS, SAS, Excel',
-    'percentage': '70'
-  }
+
 ];
 
 function data() {

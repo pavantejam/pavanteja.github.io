@@ -32,14 +32,6 @@ var skillsCollection = [
     'percentage': '90'
   },
   {
-    'name': 'Protractor, Jasmine',
-    'percentage': '65'
-  },
-  {
-    'name': 'Lodash, Underscore',
-    'percentage': '95'
-  },
-  {
     'name': 'SVN, GIT',
     'percentage': '80'
   },

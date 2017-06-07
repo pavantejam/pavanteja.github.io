@@ -9,7 +9,7 @@ var skillsCollection = [
   },
   {
     'name': 'Machine Learning (Deep-Learning)',
-    'percentage': '70'
+    'percentage': '60'
   },
   {
     'name': 'Tensorflow, Tflearn,  ',
@@ -32,11 +32,11 @@ var skillsCollection = [
     'percentage': '90'
   },
   {
-    'name': 'Protractor, Jasmine',
+    'name': 'AWS, Cloud Computing',
     'percentage': '65'
   },
   {
-    'name': 'Lodash, Underscore',
+    'name': 'Distributed Computing, ',
     'percentage': '95'
   },
   {

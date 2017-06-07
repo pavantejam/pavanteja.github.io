@@ -43,10 +43,6 @@ var skillsCollection = [
     'name': 'Data Visualization,Tableau',
     'percentage': '70'
   },
-  {
-    'name': 'SVN, GIT',
-    'percentage': '80'
-  },
 
 ];
 

@@ -42,6 +42,18 @@ var skillsCollection = [
   {
     'name': 'SPSS, SAS, Excel',
     'percentage': '70'
+  },
+  {
+    'name': 'SVN, GIT',
+    'percentage': '80'
+  },
+  {
+    'name': 'SPSS, SAS, Excel',
+    'percentage': '70'
+  },
+  {
+    'name': 'SPSS, SAS, Excel',
+    'percentage': '70'
   }
 ];
 

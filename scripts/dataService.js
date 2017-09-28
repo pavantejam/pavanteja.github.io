@@ -13,7 +13,7 @@ var skillsCollection = [
   },
   {
     'name': 'Tensorflow, Tflearn,  ',
-    'percentage': '80'
+    'percentage': '70'
   },
   {
     'name': 'SQL(MySQL,DB2,Postgres)',
